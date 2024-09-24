@@ -2,7 +2,7 @@
 
 XFlix is a video-sharing platform designed to host and share videos worldwide. It facilitates video uploading through external links (e.g., from YouTube) and provides a seamless video playback experience.
 
-- **Backend:** [XFlix Backend](https://xflix-node-teqb.onrender.com)
+- **Backend:** [XFlix Backend](https://xflix-venky-kumar.netlify.app/)
 
 ## Project Overview
 
