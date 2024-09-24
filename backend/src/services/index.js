@@ -1,0 +1,1 @@
+module.exports.VideoServices = require('./videos.service')
